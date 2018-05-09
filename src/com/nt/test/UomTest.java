@@ -4,6 +4,7 @@ public class UomTest {
 private String ename;
 private String job;
 private String job1;
+	private int st1;
 public String getEname() {
 	return ename;
 }
