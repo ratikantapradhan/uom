@@ -2,6 +2,7 @@ package com.nt.test;
 
 public class UomTest {
 private String ename;
+private String bob;
 private String job;
 private String job1;
 	private int st1;
